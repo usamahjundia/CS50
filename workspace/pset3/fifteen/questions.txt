@@ -1,0 +1,4 @@
+0. anywhere from 3x3 to 9x9
+1. a matrix, or some people call it 2 dimensional array
+2. the greet() function
+3. i need to implement the initiation, drawing, moving and checking functions
